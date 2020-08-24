@@ -6,4 +6,4 @@ The order in which I completed these projects are as follows:
 
 1. Housing.ipynb
 2. Classification.ipynb
-3. ...
+3. Training_Linear_Models.ipynb
