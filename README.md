@@ -4,9 +4,9 @@
 
 For each chapter in the book, the chapter title and the code for each chapter is as follows:
 
-Chapter 1. The Fundamentals of Machine Learning    No code in this chapter
-Chapter 2. End-to-End Machine Learning Project    Housing.ipynb
-Chapter 3. Classification    Classification.ipynb
-Chapter 4. Training Models    Training_Linear_Models.ipynb
+Chapter 1. The Fundamentals of Machine Learning    No code in this chapter<br>
+Chapter 2. End-to-End Machine Learning Project    Housing.ipynb<br>
+Chapter 3. Classification    Classification.ipynb<br>
+Chapter 4. Training Models    Training_Linear_Models.ipynb<br>
 
 
