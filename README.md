@@ -9,6 +9,6 @@ Chapter 2. End-to-End Machine Learning Project  -  Housing.ipynb<br>
 Chapter 3. Classification  -  Classification.ipynb<br>
 Chapter 4. Training Models  -  Training_Linear_Models.ipynb<br>
 Chapter 5. Support Vector Machines - Support_Vector_Machines.ipynb<br>
-...
+. . .
 
 
