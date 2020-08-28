@@ -10,6 +10,7 @@ Chapter 3. Classification  -  Classification.ipynb<br>
 Chapter 4. Training Models  -  Training_Linear_Models.ipynb<br>
 Chapter 5. Support Vector Machines - Support_Vector_Machines.ipynb<br>
 Chapter 6. Decision Trees - Decision_Trees.ipynb<br>
+Chapter 7. Ensemble Learning and Random Forests - Ensemble_Learning_And_Random_Forests.ipynb<br>
 . . .
 
 
