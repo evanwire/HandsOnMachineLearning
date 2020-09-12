@@ -12,6 +12,7 @@ Chapter 5. Support Vector Machines - Support_Vector_Machines.ipynb<br>
 Chapter 6. Decision Trees - Decision_Trees.ipynb<br>
 Chapter 7. Ensemble Learning and Random Forests - Ensemble_Learning_And_Random_Forests.ipynb<br>
 Chapter 8. Dimensionality Reduction - Dimensionality_Reduction.ipynb<br>
+Chapter 9. Unsupervised Learning Techniques - Unsupervised_Learning.ipynb<br>
 . . .
 
 
